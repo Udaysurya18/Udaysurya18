@@ -13,7 +13,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
 ## 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaysurya18&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Udaysurya18&random=123)
 
 ## 📫 Let's Connect!
 - ✉️ Email: udaysurya608@email.com
